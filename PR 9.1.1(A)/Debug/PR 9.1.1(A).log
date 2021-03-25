@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\University\Algoritmizaciya and programyvanya\PR 9.1.1(A)\PR 9.1.1(A)\Source.cpp(114,9): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+D:\University\Algoritmizaciya and programyvanya\PR 9.1.1(A)\PR 9.1.1(A)\Source.cpp(125,56): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\University\Algoritmizaciya and programyvanya\PR 9.1.1(A)\PR 9.1.1(A)\Source.cpp(125,63): warning C4390: ';': empty controlled statement found; is this the intent?
+  PR 9.1.1(A).vcxproj -> D:\University\Algoritmizaciya and programyvanya\PR 9.1.1(A)\Debug\PR 9.1.1(A).exe
